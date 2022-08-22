@@ -1,9 +1,8 @@
 body{
   background-color: violet;
 }
-#root,#btn{
- margin: 62px 250px;
- 
+#root{
+   display:flex;
   align-items: center;
   justify-content: center;
 }
