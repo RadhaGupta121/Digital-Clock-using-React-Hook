@@ -1,0 +1,9 @@
+body{
+  background-color: violet;
+}
+#root,#btn{
+ margin: 62px 250px;
+ 
+  align-items: center;
+  justify-content: center;
+}
